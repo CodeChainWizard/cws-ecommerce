@@ -278,7 +278,9 @@ export default function Layout({ title, description, children }) {
         </Container>
         <Box component="footer" sx={classes.footer}>
           <Typography>All rights reserved. Sanity Amazona.</Typography>
-          <Typography>Developed by Shubham Danecha</Typography>
+          <Typography>
+            Developed by Shubham Danecha And manage by Namra
+          </Typography>
         </Box>
       </ThemeProvider>
     </>
